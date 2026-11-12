@@ -1,0 +1,48 @@
+CH18 PAGE 028 — AUTHORITATIVE LETTERING TRANSCRIPT
+Source wording unchanged; apply ALL CAPS in CSP. Production headings below are not reader-visible.
+
+CH18-P028-PN01 | stable CH18-P028-PN01
+CH18-U0073 | speech | Midori
+Did you want to fight us?
+CH18-U0074 | speech | May Jin
+No.
+CH18-U0075 | speech | May Jin
+I wanted to go home.
+
+CH18-P028-PN02 | stable CH18-P028-PN02
+CH18-U0076 | speech | May Jin
+May I ask something?
+CH18-U0077 | speech | May Jin
+Are all Zorans...
+...as kind as you?
+
+CH18-P028-PN03 | stable CH18-P028-PN03
+CH18-U0078 | speech | Midori
+Why wouldn't they be?
+CH18-U0079 | speech | May Jin
+We were taught...
+...that Zorans are monsters.
+
+CH18-P028-PN04 | stable CH18-P028-PN04
+CH18-U0080 | speech | Midori
+We were taught...
+...that Nyssarians are demons.
+
+CH18-P028-PN05 | stable CH18-P028-PN05
+CH18-U0081 | speech | May Jin
+My Zoran...
+...is finally becoming acceptable.
+CH18-U0082 | speech | Midori
+Better than my Nyssarian.
+
+CH18-P028-PN06 | stable CH18-P029-PN01
+CH18-U0083 | speech | Messenger
+Lady Midori.
+CH18-U0084 | speech | Messenger
+The High Council has requested your presence.
+
+CH18-P028-PN07 | stable CH18-P029-PN02
+CH18-U0085 | speech | Midori
+I'll return tomorrow.
+CH18-U0086 | speech | May Jin
+I'll be here.

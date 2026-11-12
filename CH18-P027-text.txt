@@ -1,0 +1,32 @@
+CH18 PAGE 027 — AUTHORITATIVE LETTERING TRANSCRIPT
+Source wording unchanged; apply ALL CAPS in CSP. Production headings below are not reader-visible.
+
+CH18-P027-PN01 | stable CH18-P027-PN01
+CH18-U0063 | speech | Midori
+Why did you fight us?
+CH18-U0064 | speech | May Jin
+Because you invaded our country.
+
+CH18-P027-PN02 | stable CH18-P027-PN02
+CH18-U0065 | speech | Midori
+Why do your people call themselves Nyssarians?
+CH18-U0066 | speech | May Jin
+Because...
+...that's what we are.
+CH18-U0067 | speech | May Jin
+...What else would we be?
+
+CH18-P027-PN03 | stable CH18-P027-PN03
+CH18-U0068 | speech | Midori
+Do you miss home?
+CH18-U0069 | speech | May Jin
+Every day.
+
+CH18-P027-PN04 | stable CH18-P027-PN04
+CH18-U0070 | speech | Midori
+Then why become a soldier?
+CH18-U0071 | speech | May Jin
+Because our country needed soldiers.
+CH18-U0072 | speech | May Jin
+Sometimes...
+...there isn't another choice.

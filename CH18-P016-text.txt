@@ -1,0 +1,23 @@
+CH18 PAGE 016 — AUTHORITATIVE LETTERING TRANSCRIPT
+Source wording unchanged; apply ALL CAPS in CSP. Production headings below are not reader-visible.
+
+CH18-P016-PN01 | stable CH18-P016-PN01
+[SILENT — NO LETTERING]
+
+CH18-P016-PN02 | stable CH18-P016-PN02
+CH18-U0031 | caption | -
+WARHEAD THREE — EXPENDED. ONE WARHEAD REMAINS.
+
+CH18-P016-PN03 | stable CH18-P016-PN03
+CH18-U0032 | speech | Buren
+Can you continue?
+CH18-U0033 | speech | Midori
+Yes.
+
+CH18-P016-PN04 | stable CH18-P016-PN04
+CH18-U0034 | sfx | -
+THOOM. THOOM. THOOM.
+
+CH18-P016-PN05 | stable CH18-P016-PN05
+CH18-U0035 | speech | Veteran
+The last monster is coming.
